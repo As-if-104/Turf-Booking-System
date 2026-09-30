@@ -1,0 +1,8 @@
+{
+  "node": {
+    "externalPackages": [
+      "openai",
+      "stripe"
+    ]
+  }
+}
